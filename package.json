@@ -1,0 +1,15 @@
+{
+  "name": "angularts-bun-seed",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@angular-wave/angular.ts": "^0.14.2"
+  }
+}
